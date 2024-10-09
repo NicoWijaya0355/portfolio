@@ -236,11 +236,11 @@
                     <h2 class="section-heading text-uppercase">Lembaga</h2>
                     <h3 class="section-subheading text-muted">Berbagai Layanan Yang Tersedia Di Mal Pelayanan Publik</h3>
                 </div>
-                <div>
+                <!-- <div>
 
                     <a class="btn btn-outline-success" href="{{ route('layanans.create') }}" style="margin-bottom:50px"> Tambah Lembaga</a>
 
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
